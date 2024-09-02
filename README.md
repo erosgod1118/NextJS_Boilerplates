@@ -1,2 +1,2 @@
 # NextJS_Boilerplates
-Boilerplate projects for Next.js
+    Boilerplate projects for Next.js
